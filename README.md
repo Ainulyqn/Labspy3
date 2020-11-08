@@ -141,7 +141,7 @@ jika belum punya silahkan [link ini](https://filehippo.com/download_python/) <br
 
 * Hitung total keuntungan selama 8 bulan berjalan usahanya
 
-* Kita mulai cara membuat program diatas 👆
+* Kita mulai cara membuat program diatas 
 
 **FLOWCHART**
 ![gambar](AlgiritmaPemrograman/Gambar/gambar1.png) <br>
