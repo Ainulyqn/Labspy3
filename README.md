@@ -95,7 +95,7 @@ jika belum punya silahkan [link ini](https://filehippo.com/download_python/) <br
 ![gambar](Latihan2py/Gambar2/gambar5.png) <br>
 * Jika gagal silahkan cek kembali apakah kodingan kalian sudah seperti gambar diatas <br>
 * Dan jika berhasil maka tampilan pada program python anda akan seperti dibawah ini <br>
-![gambar](Latihan2py/Gambar1/gambar6.png) <br>
+![gambar](Latihan2py/Gambar2/gambar6.png) <br>
 * Berikut penjelas Latihan2.py
 
 `1. max=0` <br>
