@@ -79,20 +79,20 @@ jika belum punya silahkan [link ini](https://filehippo.com/download_python/) <br
 * Kita mulai cara membuat program diatas 
 
 **FLOWCHART** <br>
-![gambar](Latihan2py/Gambar1/gambar1.png) <br>
+![gambar](Latihan2py/Gambar2/gambar1.png) <br>
 * Sebelum memulainya pastikan anda punya aplikasi **PYTHON** <br>
 * jika belum punya silahkan [link ini](https://filehippo.com/download_python/) <br>
 * Jika Sudah seperti biasa mendownload Apk lainnya hanya klik next - next - lalu finish <br>
 * Buka aplikasi python tersebut <br>
 * Lalu pilih menu file - New File atau juga bisa tekan CTRL + N <br>
 * contoh nya seperti ini <br>
-![gambar](Latihan2py/Gambar1/gambar2.png) <br>
+![gambar](Latihan2py/Gambar2/gambar2.png) <br>
 * Jika sudah lakukan kodingan seperti gambar di bawah ini <br>
-![gambar](Latihan2py/Gambar1/gambar3.png) <br>
+![gambar](Latihan2py/Gambar2/gambar3.png) <br>
 * Jika sudah kalian bisa save program kalian dengan tekan **CTRL**+**S** atau mengklik menu file - save as dan beri nama pada program kalian <br>
-![gambar](Latihan2py/Gambar1/gambar4.png) <br>
+![gambar](Latihan2py/Gambar2/gambar4.png) <br>
 * lalu menjalankan program kalian dengan menekan f5 atau mengklik menu **RUN** <br>
-![gambar](Latihan2py/Gambar1/gambar5.png) <br>
+![gambar](Latihan2py/Gambar2/gambar5.png) <br>
 * Jika gagal silahkan cek kembali apakah kodingan kalian sudah seperti gambar diatas <br>
 * Dan jika berhasil maka tampilan pada program python anda akan seperti dibawah ini <br>
 ![gambar](Latihan2py/Gambar1/gambar6.png) <br>
@@ -144,7 +144,7 @@ jika belum punya silahkan [link ini](https://filehippo.com/download_python/) <br
 * Kita mulai cara membuat program diatas 
 
 **FLOWCHART**
-![gambar](AlgiritmaPemrograman/Gambar/gambar1.png) <br>
+![gambar](AlgoritmaPemrograman/Gambar/gambar1.png) <br>
 
 * Sebelum memulainya pastikan anda punya aplikasi PYTHON <br>
 * jika belum punya silahkan klik [link ini](https://filehippo.com/download_python/) <br>
@@ -152,16 +152,16 @@ jika belum punya silahkan [link ini](https://filehippo.com/download_python/) <br
 * Buka aplikasi python tersebut <br>
 * Lalu pilih menu file - New File atau juga bisa tekan CTRL + N <br>
 * contoh nya seperti ini <br>
-![gambar](AlgiritmaPemrograman/Gambar/gambar2.png) <br>
+![gambar](AlgoritmaPemrograman/Gambar/gambar2.png) <br>
 * Jika sudah lakukan kodingan seperti gambar di bawah ini <br>
-![gambar](AlgiritmaPemrograman/Gambar/gambar3.png) <br>
+![gambar](AlgoritmaPemrograman/Gambar/gambar3.png) <br>
 * Jika sudah kalian bisa save program kalian dengan tekan **CTRL**+**S** atau mengklik menu file - save as dan beri nama pada program kalian <br>
-![gambar](AlgiritmaPemrograman/Gambar/gambar4.png) <br>
+![gambar](AlgoritmaPemrograman/Gambar/gambar4.png) <br>
 * lalu menjalankan program kalian dengan menekan **f5** atau mengklik menu **RUN** <br>
-![gambar](AlgiritmaPemrograman/Gambar/gambar5.png) <br>
+![gambar](AlgoritmaPemrograman/Gambar/gambar5.png) <br>
 * Jika gagal silahkan cek kembali apakah kodingan kalian sudah seperti gambar diatas 
 Dan jika berhasil maka tampilan pada program python anda akan seperti dibawah ini
-![gambar](AlgiritmaPemrograman/Gambar/gambar6.png) <br>
+![gambar](AlgoritmaPemrograman/Gambar/gambar6.png) <br>
 
 # Berikut penjelasan dari Program1.py
 
